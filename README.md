@@ -13,4 +13,4 @@ Analysis of baseball statistics using the [Lahman data](http://www.seanlahman.co
 ## Getting started
 
 The project was completed with Jupyter Notebook. Visit [this page](http://jupyter.readthedocs.io/en/latest/install.html) for installation.
-# Baseball_stats
+
